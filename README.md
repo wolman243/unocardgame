@@ -18,3 +18,5 @@ Logic Synchronization: Managing the complex flow of "Reverse" and "Skip" cards w
 Asset Management: Integrating visual assets (card images/icons) within the Java environment for an immersive user experience.
 
 This project showcases my proficiency in Java development, Desktop GUI design, and the ability to transform complex logical requirements into a structured, object-oriented software solution.
+
+This project was created by Mustafa Efe Kılıç and Ahmet Emre Beldağ.
